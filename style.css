@@ -84,10 +84,11 @@ main {
 .luckybox {
   background: #E4EDF1;
   box-shadow: 2px 2px 2px 0px rgba(85, 85, 85, 0.50);
+  padding: 2rem;
   margin-bottom: 1.7rem;
 }
 
-.luckybox p {
+.screen2, .luckybox p {
   color: #000;
   text-align: center;
   font-family: 'Dancing Script', cursive;
